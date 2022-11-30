@@ -1,0 +1,10 @@
+# Исключить все файлы с расширение .tmp
+*tmp
+
+*_old
+
+*_backup
+
+*Thumbs.db
+
+*.DS_Store
